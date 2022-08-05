@@ -6,8 +6,8 @@ echo "
 ----------------------
 "
 
-# add nodejs 12 ppa (personal package archive) from nodesource
-curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+# add nodejs 14 ppa (personal package archive) from nodesource
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 
 # install nodejs and npm
 sudo apt-get install -y nodejs
