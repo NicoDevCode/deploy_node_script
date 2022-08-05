@@ -6,7 +6,7 @@ echo "
 ----------------------
 "
 
-# add nodejs 10 ppa (personal package archive) from nodesource
+# add nodejs 12 ppa (personal package archive) from nodesource
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 
 # install nodejs and npm
